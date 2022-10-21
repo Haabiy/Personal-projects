@@ -185,3 +185,7 @@ img {
     height: 44px;
 }
 
+img.QR{
+    height: 20%;
+    width: 20%;
+}
